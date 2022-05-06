@@ -1,0 +1,18 @@
+.footer {
+  position: relative;
+  padding-bottom: 5%;
+  font-size: 20px;
+  font-family: "Roboto Mono", sans-serif;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+}
+.img-linkedin {
+  width: 50px;
+}
+.img-github {
+  width: 50px;
+}
+.built {
+}
