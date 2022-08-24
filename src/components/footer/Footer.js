@@ -24,7 +24,7 @@ function Footer() {
           rel="noopener noreferrer"
           target="_blank"
         >
-          Built by: Shan-e-Haider Bukhari
+          Designed and developed by: Shan-e-Haider Bukhari
         </a>
       </div>
       <div>
